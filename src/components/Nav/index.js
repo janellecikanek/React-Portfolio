@@ -14,11 +14,8 @@ export default function Nav() {
           justifyContent: 'flex-start',
         }}
       >
-        <div>
-          <p>Janelle Cikanek</p>
-        </div>
         <div style={linkStyle}>
-          <a href="#">About me</a>
+          <a href="#aboutMe">About me</a>
         </div>
         <div style={linkStyle}>
           <a href="#">Portfolio</a>
@@ -33,3 +30,4 @@ export default function Nav() {
     </nav>
   );
 }
+
