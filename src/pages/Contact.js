@@ -63,4 +63,4 @@ function ContactForm() {
   );
 }
 
-export default Contact;
+export default ContactForm;

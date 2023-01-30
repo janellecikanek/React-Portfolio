@@ -3,6 +3,7 @@ import React from "react";
 import "../../components/css/AboutMe.css";
 import Tulips from "../../assets/Tulips.jpg";
 import headShot from '../../assets/headShot.jpg';
+
 const styles = {
   h1: {
     color: (2, 48, 71),

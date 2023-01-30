@@ -2,14 +2,7 @@
     text-align: center;
   }
   
-  /* * {
-    background-color: darkslategrey;
-  } */
-
-  .App {
-    text-align: center;
+  * {
+    background-color: rgb(2,48,71);
   }
-  
-  /* * {
-    background-color: darkslategrey;
-  } */
+

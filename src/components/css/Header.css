@@ -4,8 +4,8 @@
 }
 
 .headerName {
-    background-color: rgb(255, 183, 3);
-    color: #cbd0b9;
+    background-color: rgb(255, 183, 0);
+    color: rgb(142, 202, 230);
     display: flex;
     align-items: center;
 }
