@@ -1,23 +1,21 @@
 import React from "react";
-import ".../css/AboutMe";
-import "/src/components/css/AboutMe.css";
-import coverImage from "/assets/Tulips.jpg";
-import headShot from "/assets/facejanelle.jpg";
-import { auto } from "@popperjs/core";
-
+//import { auto } from "@popperjs/core";
+import "../../components/css/AboutMe.css";
+import Tulips from "../../assets/Tulips.jpg";
+import headShot from '../../assets/headShot.jpg';
 const styles = {
   h1: {
-    color: rgb(2, 48, 71),
+    color: (2, 48, 71),
   },
   p: {
     marginTop: 40,
-    marginLeft: auto,
-    marginRight: auto,
+    //marginLeft: auto,
+    //marginRight: auto,
     textAlign: "center",
     border: "solid",
   },
   card: {
-    width: auto,
+    //width: auto,
   },
 };
 

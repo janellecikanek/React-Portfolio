@@ -5,7 +5,7 @@ import Project from "./pages/Project";
 import Contact from "./pages/Contact";
 import Nav from "./components/Nav";
 import Footer from "./components/Footer";
-import "/src/components/css/style.css";
+import "./components/css/style.css";
 
 function App() {
   const [currentPage, setCurrentPage] = useState("AboutMe");
