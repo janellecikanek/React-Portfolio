@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from '../Header';
-import '../css/Header.css';
-import '../css/style.css'
+import Header from './Header';
+import './css/Header.css';
+import './css/style.css'
 
 function Nav({ currentPage, handlePageChange }) {
 return (
