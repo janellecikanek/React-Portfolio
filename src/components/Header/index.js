@@ -1,7 +1,19 @@
+import React from 'react';
+import '../css/Header.css'
+
+const styles ={
+    header: {
+        background: 'green'
+    },
+}
+
 function Header() {
-    return <div className="header">
-        <h1>Janelle Cikanek</h1>
-    </div>
+
+    return (
+    <header className="header" style={styles.header}>
+        <h1 className='headerName'>Janelle Cikanek</h1>
+    </header>
+    );
 }
 
 export default Header;

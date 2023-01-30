@@ -1,0 +1,11 @@
+.headerNav-container {
+    background-color: rgb(78, 139, 92);
+    display: block;
+}
+
+.headerName {
+    background-color: rgb(78, 139, 92);
+    color: #cbd0b9;
+    display: flex;
+    align-items: center;
+}
