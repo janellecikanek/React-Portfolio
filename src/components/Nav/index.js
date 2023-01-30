@@ -1,4 +1,7 @@
 import React from 'react';
+import Header from '../Header';
+import '../css/Header.css';
+import '../css/style.css'
 
 export default function Nav() {
   const linkStyle = { border: '1px black', padding: '5px' };

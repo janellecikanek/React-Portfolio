@@ -1,5 +1,6 @@
 import React from 'react';
 import '../css/Header.css'
+import '../css/style.css'
 
 const styles ={
     header: {
