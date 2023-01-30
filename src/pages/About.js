@@ -20,14 +20,13 @@ const styles = {
   },
 };
 
-function About() {
+function AboutMe() {
   return (
     <section>
-      <div clasName="headerHomePage" style={styles.headerHomePage}>
-        {" "}
-      </div>
+      <div className="headerHomePage" style={styles.headerHomePage}>
+ 
       <h2 style={styles.h2}>About Me</h2>
-
+      </div>
       <div className="container">
         <div className="card col imgCard" styles={styles.card}>
           <div className="card-img">
@@ -43,7 +42,7 @@ function About() {
               skills I've learned with my Full Stack Web Development
               certification. My love for problem solving and working with a team
               are just some of the assets I will lean on to be sucessful in this
-              field..
+              field.
             </p>
             <div className="imgContainer">
               <img src={Tulips} alt="Tulips" className="Tulips"></img>
@@ -55,4 +54,4 @@ function About() {
   );
 }
 
-export default About;
+export default AboutMe;

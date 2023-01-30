@@ -1,0 +1,48 @@
+.card-body {
+    background-color:  rgb(2,48,71);
+}
+
+.card-text {
+    background-color:  #023047;
+    color:  rgb(251,133,1);
+}
+
+.card-title {
+    background-color:  #023047;
+    color:  rgb(251,133,1);
+}
+
+.headShot {
+width: 15%;
+height: auto;
+border-radius: 25px;
+background-color:  #023047;
+color: rgb(33,158,188);
+}
+
+.imgCard {
+    background-color:  #023047;
+}
+
+.card-img {
+    background-color:  #023047;
+}
+
+.headShotImgContainer {
+    display: flex;
+    justify-content: space-around;
+    background-color:  #023047;
+    margin-bottom: 25;
+}
+
+.imgContainer {
+  display: flex;
+  justify-content: space-around;
+  background-color:  #023047;
+  margin-bottom: 25;
+
+}
+
+.Tulips {
+width: auto
+}
