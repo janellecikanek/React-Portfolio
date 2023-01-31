@@ -8,14 +8,16 @@
     color: rgb(142, 202, 230);
     display: flex;
     align-items: center;
+    
 }
 
 .nav-tabs {
-    justify-content: space-between;
+    justify-content:right;
     margin-left: auto;
-    background-color: rgb(2,48,71);
+    background-color:  rgb(255, 183, 0)
 }
 
 .nav-item {
-    background-color:  rgb(2,48,71);
+    background-color:  rgb(255, 183, 0);
+    justify-content: right;
 }

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-
+import './../components/css/Contact.css'
 import { validateEmail } from './../utils/helpers';
 
 function ContactForm() {
@@ -37,7 +37,7 @@ function ContactForm() {
   };
 
   return (
-    <section>
+    <section className="contact">
       <h1 data-testid="h1tag">Contact me</h1>
       <form id="contact-form" onSubmit={handleSubmit}>
         <div>

@@ -19,10 +19,10 @@ return (
         </li>
         <li className="nav-item">
           <a
-            href="#portfolio"
+            href="#project"
             onClick={() => handlePageChange('Project')}
             className={currentPage === 'Project' ? 'nav-link active' : 'nav-link'} >
-            Portfolio
+            Projects
           </a>
         </li>
         <li className="nav-item">

@@ -12,10 +12,12 @@
     color:  rgb(251,133,1);
 }
 
-.headShot {
+.headshot {
 width: 15%;
-height: auto;
-border-radius: 25px;
+height: 15%;
+border-radius: 90px;
+outline-width: thick;
+outline-style: solid;
 background-color:  #023047;
 color: rgb(33,158,188);
 }
@@ -33,6 +35,7 @@ color: rgb(33,158,188);
     justify-content: space-around;
     background-color:  #023047;
     margin-bottom: 25;
+    border-radius: 25px;
 }
 
 .imgContainer {
@@ -44,5 +47,6 @@ color: rgb(33,158,188);
 }
 
 .Tulips {
-width: auto
+height: 20%;
+width: 100%;
 }
