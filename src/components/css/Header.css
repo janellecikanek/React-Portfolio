@@ -1,23 +1,21 @@
-.headerNav-container {
-    background-color: rgb(255, 183, 3);
-    display: block;
-}
-
-.headerName {
-    background-color: rgb(255, 183, 0);
-    color: rgb(142, 202, 230);
-    display: flex;
-    align-items: center;
-    
+.header {
+  background-color: rgb(145, 48, 89);
+  color: rgb (71, 16, 84);
+  padding: 30px;
 }
 
 .nav-tabs {
-    justify-content:right;
-    margin-left: auto;
-    background-color:  rgb(255, 183, 0)
+  justify-content: right;
+  margin-left: auto;
+  background-color: rgb(181, 91, 129);
+  color: rgb (72, 0,30);
 }
 
 .nav-item {
-    background-color:  rgb(255, 183, 0);
-    justify-content: right;
+  justify-content: right;
+}
+
+.nav-link {
+    background-color: brown;
+
 }

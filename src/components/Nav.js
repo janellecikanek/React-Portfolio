@@ -6,7 +6,7 @@ import './css/style.css'
 function Nav({ currentPage, handlePageChange }) {
 return (
  
-      <div className="headerNav-container"> 
+      <div> 
       <Header/>
       <ul className="nav nav-tabs">
         <li className="nav-item">
