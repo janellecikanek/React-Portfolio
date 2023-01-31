@@ -1,6 +1,6 @@
 import React from "react";
-//import gitPic from "../assets/github-mark.png"
-import "./../components/css/Project.css";
+import github from "../assets/github.png";
+import "./../components/css/Project.css"
 
 export default function Project() {
   return (
@@ -14,14 +14,16 @@ export default function Project() {
             target="_blank"
             rel="noreferrer noopener"
           >
-            {/* <img className='gitPic' src={gitPic} alt='GitHub icon'/> */}
+            <img className='github' src={github} alt='GitHub Icon'/>
           </a>
           <a
             href="https://github.com/wolfjfly/Project-2-group-K'"
             target="_blank"
             rel="noreferrer noopener"
           >
-            <section>{/* <figure className=""></figure> */}</section>
+            <section>
+              <figure className="villageImg"></figure>
+            </section>
           </a>
         </div>
 
@@ -32,14 +34,14 @@ export default function Project() {
             target="_blank"
             rel="noreferrer noopener"
           >
-            {/* <img className='gitPic' src={gitPic} alt='GitHub icon'/> */}
+            <img className='github' src={github} alt='GitHub Icon'/>
           </a>
           <a
             href="https://sophiekedrowski.github.io/prj1-grp-j/"
             target="_blank"
             rel="noreferrer noopener"
           >
-            <section>{/* <figure className="f"></figure> */}</section>
+            <section><figure className="campImg"></figure></section>
           </a>
         </div>
 
@@ -50,7 +52,7 @@ export default function Project() {
             target="_blank"
             rel="noreferrer noopener"
           >
-            {/* <img className='gitPic' src={gitPic} alt='GitHub icon'/> */}
+           <img className='github' src={github} alt='GitHub Icon'/>
           </a>
           <a
             href="https://janellecikanek.github.io/ApiWeatherDashboard/"
@@ -58,7 +60,7 @@ export default function Project() {
             rel="noreferrer noopener"
           >
             <section>
-              {/* <figure className=""></figure> */}
+              <figure className="weatherImg"></figure>
             </section>
           </a>
         </div>
@@ -70,14 +72,14 @@ export default function Project() {
             target="_blank"
             rel="noreferrer noopener"
           >
-            {/* <img className='gitPic' src={gitPic} alt='GitHub icon'/> */}
+       <img className='github' src={github} alt='GitHub Icon'/>
           </a>
           <a
             href="https://janellecikanek.github.io/Work-Day-Scheduler/"
             target="_blank"
             rel="noreferrer noopener"
           >
-            <section>{/* <figure className=""></figure> */}</section>
+            <section><figure className="workdayImg"></figure></section>
           </a>
         </div>
 
@@ -88,14 +90,14 @@ export default function Project() {
             target="_blank"
             rel="noreferrer noopener"
           >
-            {/* <img className='gitPic' src={gitPic} alt='GitHub icon'/> */}
+          <img className='github' src={github} alt='GitHub Icon'/>
           </a>
           <a
             href="https://drive.google.com/file/d/14fFkYCK9ortifkfIxm6s-hJOnxIaozpv/view"
             target="_blank"
             rel="noreferrer noopener"
           >
-            <section>{/* <figure className=""></figure> */}</section>
+            <section><figure className="ecommerceImg"></figure></section>
           </a>
         </div>
       </div>

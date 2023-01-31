@@ -1,0 +1,31 @@
+.villageImg {
+  background-image: url(/src/assets/Village.png);
+  min-height: 350px;
+  flex-grow: 1;
+  background-size: cover;
+  background-position: center;
+}
+
+.campImg {
+  background-image: url(/src/assets/campsite.png);
+  min-height: 350px;
+  flex-grow: 1;
+  background-size: cover;
+  background-position: center;
+}
+
+.workdayImg {
+  background-image: url(/src/assets/workDayScheduler.png);
+  min-height: 350px;
+  flex-grow: 1;
+  background-size: cover;
+  background-position: center;
+}
+
+.ecommerceImg {
+  background-image: url(/src/assets/Ecommerce.png);
+  min-height: 350px;
+  flex-grow: 1;
+  background-size: cover;
+  background-position: center;
+}
