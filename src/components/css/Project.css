@@ -1,3 +1,17 @@
+.project-header {
+  text-align: center;
+  color: rgb(71, 16, 84);
+}
+
+.project {
+  color: rgb(71, 16, 84);;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  text-align: center;
+}
 .villageImg {
   background-image: url(/src/assets/Village.png);
   min-height: 350px;
@@ -31,18 +45,24 @@
 }
 
 .passwordImg {
-    background-image: url(/src/assets/password.png);
-    min-height: 350px;
-    flex-grow: 1;
-    background-size: cover;
-    background-position: center;
-  }
-
+  background-image: url(/src/assets/password.png);
+  min-height: 350px;
+  flex-grow: 1;
+  background-size: cover;
+  background-position: center;
+}
 
 .socialImg {
-    background-image: url(/src/assets/social.png);
-    min-height: 350px;
-    flex-grow: 1;
-    background-size: cover;
-    background-position: center;
-  }
+  background-image: url(/src/assets/social.png);
+  min-height: 350px;
+  flex-grow: 1;
+  background-size: cover;
+  background-position: center;
+}
+.weatherImg {
+  background-image: url(/src/assets/Weather.png);
+  min-height: 350px;
+  flex-grow: 1;
+  background-size: cover;
+  background-position: center;
+}

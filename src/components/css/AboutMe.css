@@ -22,6 +22,6 @@ justify-content: center;
 }
 
 .Tulips {
-height: 50%;
+max-height: 20%;
 width: 90%;
 }
