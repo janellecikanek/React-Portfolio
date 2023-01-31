@@ -1,8 +1,6 @@
-/* .App {
-    text-align: center;
-  } */
-
-  * {
+* {
   font-size: 25px;
-  } 
-
+  color: rgb(45, 2, 56);
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+}

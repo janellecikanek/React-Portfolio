@@ -8,14 +8,15 @@
   justify-content: right;
   margin-left: auto;
   background-color: rgb(181, 91, 129);
-  color: rgb (72, 0,30);
+  color: rgb(71, 16, 84);
 }
 
 .nav-item {
   justify-content: right;
+  color: rgb(71, 16, 84);
 }
 
 .nav-link {
-    background-color: brown;
+  color: rgb(71, 16, 84);
 
 }
