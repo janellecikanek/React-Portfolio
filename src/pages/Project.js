@@ -100,6 +100,42 @@ export default function Project() {
             <section><figure className="ecommerceImg"></figure></section>
           </a>
         </div>
+
+        <div className="project">
+          <h2>Social Network API</h2>
+          <a
+            href="https://github.com/janellecikanek/Social-Network-API"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+          <img className='github' src={github} alt='GitHub Icon'/>
+          </a>
+          <a
+            href="https://drive.google.com/file/d/1jGZO9VYzAsEkoHo6iiTM3HYrZDhFjDyE/view"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            <section><figure className="socialImg"></figure></section>
+          </a>
+        </div>
+
+        <div className="project">
+          <h2>Password Generator</h2>
+          <a
+            href="https://github.com/janellecikanek/Password-Generator"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+          <img className='github' src={github} alt='GitHub Icon'/>
+          </a>
+          <a
+            href="https://janellecikanek.github.io/Password-Generator/"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            <section><figure className="passwordImg"></figure></section>
+          </a>
+        </div>
       </div>
     </div>
   );

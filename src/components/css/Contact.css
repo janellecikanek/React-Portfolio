@@ -1,13 +1,4 @@
 .contact {
-    display: flex;
 text-align: center;
-justify-content: center;
-}
-
-#contact-form {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    background-color:  white;
 
 }

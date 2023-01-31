@@ -29,3 +29,20 @@
   background-size: cover;
   background-position: center;
 }
+
+.passwordImg {
+    background-image: url(/src/assets/password.png);
+    min-height: 350px;
+    flex-grow: 1;
+    background-size: cover;
+    background-position: center;
+  }
+
+
+.socialImg {
+    background-image: url(/src/assets/social.png);
+    min-height: 350px;
+    flex-grow: 1;
+    background-size: cover;
+    background-position: center;
+  }
