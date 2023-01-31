@@ -8,7 +8,7 @@ import Footer from "./components/Footer";
 import "./components/css/style.css";
 
 function App() {
-  const [currentPage, setCurrentPage] = useState("AboutMe");
+  const [currentPage, setCurrentPage] = useState("About");
 
   const renderPage = () => {
     if (currentPage === "About") {
@@ -16,10 +16,10 @@ function App() {
     }
     if (currentPage === "Contact") {
       return <Contact />;
-    }
-    if (currentPage === "Resume") {
-      return <Resume />;
-    }
+    // }
+    // if (currentPage === "Resume") {
+    //   return <Resume />;
+     }
     return <Project />;
   };
 
@@ -28,6 +28,8 @@ function App() {
     <div>
       <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
       {renderPage()}
+     
+      {/* <Resume /> */}
       <Footer />
     </div>
   );

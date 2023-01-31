@@ -2,7 +2,7 @@ import React from "react";
 //import { auto } from "@popperjs/core";
 import "./../components/css/AboutMe.css";
 import Tulips from "./../assets/Tulips.jpg";
-import headShot from './../assets/headShot.jpg';
+import headShot from '../assets/headShot.jpg';
 
 const styles = {
   h1: {
