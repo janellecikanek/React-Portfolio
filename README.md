@@ -25,12 +25,12 @@ When I view the footer then I am presented with text or icon links to the develo
 
 ## Installation
 
-This portfolio was created using React and is deployed on GitHub Pages.
+This portfolio was created using React, CSS, Bootstrap and JavaScript The app is deployed on GitHub Pages.
 
 ## Usage
+![screenshot](src/assets/Portfolio.png)
 
-    ![alt screenshot](src/assets/Portfolio.png)
-
+https://janellecikanek.github.io/React-Portfolio/
 
 ## Credits
 
