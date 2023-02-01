@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.2e63ba5e.css",
+    "main.js": "/React-Portfolio/static/js/main.3ad58e92.js",
+    "static/js/787.fbf010eb.chunk.js": "/React-Portfolio/static/js/787.fbf010eb.chunk.js",
+    "static/media/campsite.png": "/React-Portfolio/static/media/campsite.b950fa6cceb202c647ef.png",
+    "static/media/social.png": "/React-Portfolio/static/media/social.67f35cc8d4a39877be50.png",
+    "static/media/Tulip.jpg": "/React-Portfolio/static/media/Tulip.220490e15e7c940d2f69.jpg",
+    "static/media/Weather.png": "/React-Portfolio/static/media/Weather.627a8b4cc79466d2073c.png",
+    "static/media/Ecommerce.png": "/React-Portfolio/static/media/Ecommerce.f4b4b88177331604a235.png",
+    "static/media/workDayScheduler.png": "/React-Portfolio/static/media/workDayScheduler.b540a17ed68dc565a4a1.png",
+    "static/media/Village.png": "/React-Portfolio/static/media/Village.ebfdb15f961439ae3a0d.png",
+    "static/media/password.png": "/React-Portfolio/static/media/password.98f2a40520c3126fcdf1.png",
+    "static/media/headShot.jpg": "/React-Portfolio/static/media/headShot.057f5fffc0c5ed17d30c.jpg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.2e63ba5e.css.map": "/React-Portfolio/static/css/main.2e63ba5e.css.map",
+    "main.3ad58e92.js.map": "/React-Portfolio/static/js/main.3ad58e92.js.map",
+    "787.fbf010eb.chunk.js.map": "/React-Portfolio/static/js/787.fbf010eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e63ba5e.css",
+    "static/js/main.3ad58e92.js"
+  ]
+}
