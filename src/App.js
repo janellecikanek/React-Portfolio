@@ -1,10 +1,9 @@
 import React, { useState } from "react";
-import Header from "./components/Header";
 import About from "./pages/About";
 import Project from "./pages/Project";
 import Contact from "./pages/Contact";
-import Nav from "./components/Nav";
-import Footer from "./components/Footer";
+import Nav from "./pages/Nav";
+import Footer from "./pages/Footer";
 import "./components/css/style.css";
 
 function App() {

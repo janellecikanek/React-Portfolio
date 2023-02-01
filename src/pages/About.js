@@ -1,6 +1,6 @@
 import React from "react";
 import "./../components/css/AboutMe.css";
-import Tulips from "./../assets/Tulips.jpg";
+import Tulip from "./../assets/Tulip.jpg";
 import headShot from "../assets/headShot.jpg";
 
 function AboutMe() {
@@ -15,7 +15,7 @@ function AboutMe() {
         I will lean on to be sucessful in this field.
       </p>
       <div>
-        <img src={Tulips} alt="Tulips" className="Tulips"></img>
+        <img src={Tulip} alt="Tulips" className="Tulip"></img>
       </div>
     </div>
   );

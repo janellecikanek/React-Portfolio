@@ -29,9 +29,8 @@ This portfolio was created using React and is deployed on GitHub Pages.
 
 ## Usage
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+    ![alt screenshot](src/assets/Portfolio.png)
+
 
 ## Credits
 
