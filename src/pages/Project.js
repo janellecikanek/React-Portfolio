@@ -7,6 +7,24 @@ export default function Project() {
     <div>
       <h1 className="project-header">Projects</h1>
       <div className="wrapper">
+
+      <div className="project">
+          <h2>Helping Hands</h2>
+          <a
+            href="https://github.com/mjkonkel/helping-hands"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            <img className='github' src={github} alt='GitHub Icon'/>
+          </a>
+          <a
+            href="https://github.com/mjkonkel/helping-hands"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            <section><figure className="handsImg"></figure></section>
+          </a>
+        </div>
         <div className="project">
           <h2>It Takes a Village</h2>
           <a

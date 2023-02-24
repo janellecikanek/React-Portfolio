@@ -12,6 +12,14 @@
   grid-template-columns: repeat(2, 1fr);
   text-align: center;
 }
+
+.handsImg {
+  background-image: url(/src/assets/helpingHandsScreenshot.png);
+  min-height: 350px;
+  flex-grow: 1;
+  background-size: cover;
+  background-position: center;
+}
 .villageImg {
   background-image: url(/src/assets/Village.png);
   min-height: 350px;
@@ -21,7 +29,7 @@
 }
 
 .campImg {
-  background-image: url(/src/assets/campsite.png);
+  background-image: url(/src/assets/Campsite.png);
   min-height: 350px;
   flex-grow: 1;
   background-size: cover;
